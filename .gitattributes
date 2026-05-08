@@ -1,0 +1,6 @@
+*.mat filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
+*.tgz filter=lfs diff=lfs merge=lfs -text
+Data/Crohn_Disease/GSE317503_TPMSalmonCounts_final.txt filter=lfs diff=lfs merge=lfs -text
+Data/Crohn_Disease/GSE317503_rawSalmonCounts_final.txt filter=lfs diff=lfs merge=lfs -text
+Data/Crohn_Disease/GSE17215_series_matrix.txt filter=lfs diff=lfs merge=lfs -text
