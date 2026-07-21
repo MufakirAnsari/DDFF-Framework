@@ -90,12 +90,12 @@ pdflatex main.tex && bibtex main && pdflatex main.tex && pdflatex main.tex
 If you use this code, please cite:
 
 ```bibtex
-@article{Ansari2025DDFF,
-  title={Distributional Discriminative Feature Filtering: A Scalable Framework
-         for High-Dimensional Low-Sample-Size Biomedical Data},
-  author={Popp, Lauren, Ansari, Mufakir and Ghosh, Susmit},
-  journal={Knowledge-Based Systems},
-  year={2025}
+@inproceedings{Ansari2026DDFF,
+  title={Distributional Discriminative Feature Filtering: A Scalable Framework for High-Dimensional Low-Sample-Size Biomedical Data},
+  author={Popp, Lauren and Ansari, Mufakir and Ghosh, Tomojit},
+  booktitle={Proceedings of the 25th IEEE International Conference on Machine Learning and Applications (ICMLA)},
+  note={Accepted},
+  year={2026}
 }
 ```
 
