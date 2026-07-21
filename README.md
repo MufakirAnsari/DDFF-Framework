@@ -93,7 +93,7 @@ If you use this code, please cite:
 @article{Ansari2025DDFF,
   title={Distributional Discriminative Feature Filtering: A Scalable Framework
          for High-Dimensional Low-Sample-Size Biomedical Data},
-  author={Ansari, Mufakir and Ghosh, Susmit},
+  author={Popp, Lauren, Ansari, Mufakir and Ghosh, Susmit},
   journal={Knowledge-Based Systems},
   year={2025}
 }
