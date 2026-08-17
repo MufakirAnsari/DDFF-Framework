@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > **Distributional Discriminative Feature Filtering: A Scalable Framework for High-Dimensional Low-Sample-Size Biomedical Data**  
-> Mufakir Ansari, Susmit Ghosh — The Ohio State University
+> Mufakir Ansari, Lauren Popp, Dr Tomojit Ghosh — Wright State University
 
 ## Overview
 
