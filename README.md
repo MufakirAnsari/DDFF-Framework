@@ -92,7 +92,7 @@ If you use this code, please cite:
 ```bibtex
 @inproceedings{Ansari2026DDFF,
   title={Distributional Discriminative Feature Filtering: A Scalable Framework for High-Dimensional Low-Sample-Size Biomedical Data},
-  author={Popp, Lauren and Ansari, Mufakir and Ghosh, Tomojit},
+  author={Ansari, Mufakir and Popp, Lauren and Ghosh, Tomojit},
   booktitle={Proceedings of the 25th IEEE International Conference on Machine Learning and Applications (ICMLA)},
   note={Accepted},
   year={2026}
